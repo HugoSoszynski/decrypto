@@ -1,0 +1,6 @@
+decrypto
+mpdecrypto
+.vscode*
+.idea*
+*.o
+*.out
