@@ -1,6 +1,8 @@
 # Decrypto
 
-A quick and dirty md5 bruteforcer to observe multiprocess computing
+A quick and dirty md5 bruteforcer to observe multiprocess computing.
+
+This code was made for a university course.
 
 _Tested on Ubuntu 19.04 64 bits_
 
