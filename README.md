@@ -26,7 +26,7 @@ Compile:
 `$ gcc -o decrypto decrypto.c -lcrypto`
 
 Usage:
-`$ ./decrypto md5 password_length`
+`$ ./decrypto MD5 password_length`
 
 **For the multiple thread implementation (mpdecrypto):**
 
@@ -36,14 +36,14 @@ Compile:
 `$ gcc -o mpdecrypto mpdecrypto.c -lcrypto -fopenmp`
 
 Usage:
-`$ ./mpdecrypto md5 password_length`
+`$ ./mpdecrypto MD5 password_length`
 
 ### Python
 
 **For the single thread implementation (decrypto.py):**
 
 Usage:
-`$ ./decrypto.py md5 password_length`
+`$ ./decrypto.py MD5 password_length`
 
 **For the multiprocess implementation (mpdecrypto.py):**
 
